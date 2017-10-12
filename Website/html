@@ -1,0 +1,68 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Hexspeak| Team 12894</title>
+
+<script>var __adobewebfontsappname__="dreamweaver"</script>
+<script src="http://use.edgefonts.net/abel:n4:default;actor:n4:default;alfa-slab-one:n4:default.js" type="text/javascript"></script>
+
+<link href="../../Downloads/bootstrap.css" rel="stylesheet" type="text/css">
+<link href="../../Downloads/bootstrap-3.3.7.css" rel="stylesheet" type="text/css">
+<link href="../../Downloads/styles.css" rel="stylesheet" type="text/css">
+</head>
+ 
+<body style="padding-top: 70px">
+<nav class="navbar navbar-default navbar-fixed-top">
+  <nav class="navbar navbar-default navbar-fixed-top">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#topFixedNavbar1" aria-expanded="false"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button>
+        <a class="navbar-brand" href="#">Hexspeak| Team 12894</a></div>
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="topFixedNavbar1">
+        <ul class="nav navbar-nav navlist">
+          <li class="navlistitem"><a href="home.html">Home</a> </li>
+          <li class="navlistitem"><a href="about.html">About</a> </li>
+          <li class="navlistitem"><a href="sponsorship.html">Sponsorship</a> </li>
+          <li class="navlistitem"><a href="outreach.html">Outreach</a> </li>
+          <li class="navlistitem active"><a href="#">Contact</a> </li>
+         
+        </ul>
+      </div>
+      <!-- /.navbar-collapse -->
+    </div>
+    <!-- /.container-fluid -->
+  </nav>
+</nav>
+ 
+ 
+             
+<section3>
+  <h2>Contact us:</h2>
+  <br>
+  <br>
+  <form action="hexspeak.org/formmail2.php" id="form1" name="form1" method="post">
+    <label for="textfield">Hi, what's your name:</label>
+    <br>
+    <input type="text" class="formStyle" name="name" id="textfield">
+    <br>
+    <label for="email">What's your Email:</label>
+    <br>
+    <input type="email" class="formStyle" name="email" id="email">
+    <br>
+    <label for="comments">What would you like us to know:</label>
+    <br>
+    <textarea name="comments" class="formStyle" id="textarea"></textarea>
+    <br>
+    <br>
+    <input name="submit" type="submit" class="formStyle" id="submit" form="form1" value="Submit">
+  </form>  
+</section3>
+
+<aside>
+  
+<footer>Copyright 2017</footer>
